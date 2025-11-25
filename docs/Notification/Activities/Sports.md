@@ -7,8 +7,8 @@ cards:
     tags:
       - text: 体育赛事
         class: tag-category
-      - text: 紧急
-        class: tag-priority
+      - text: 已截止
+        class: tag-finished
 ---
 
 
